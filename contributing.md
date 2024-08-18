@@ -25,18 +25,18 @@ Thank you for your suggestions!
 
 ## Updating your PR
 
-A lot of times, making a PR adhere to the standards above can be difficult.
-If the maintainers notice anything that we'd like changed, we'll ask you to
-edit your PR before we merge it. There's no need to open a new PR, just edit
-the existing one. If you're not sure how to do that,
+A lot of times, making a PR adhere to the standards above can be difficult. If
+the maintainers notice anything that we'd like changed, we'll ask you to edit
+your PR before we merge it. There's no need to open a new PR, just edit the
+existing one. If you're not sure how to do that,
 [here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
 on the different ways you can update your PR so that we can merge it.
 
 ## pre-commit
 
-Please consider [installing pre-commit](https://pre-commit.com/#installation)
-to ensure that the tables of contents are kept up-to-date.
+Please consider [installing pre-commit](https://pre-commit.com/#installation) to
+ensure that the tables of contents are kept up-to-date.
 
-Once `pre-commit` is installed, please run `pre-commit install` in your
-local clone of this repository to have it executed automatically when
-`git commit`ing. You can also run it manually by `pre-commit run --all-files`.
+Once `pre-commit` is installed, please run `pre-commit install` in your local
+clone of this repository to have it executed automatically when `git commit`ing.
+You can also run it manually by `pre-commit run --all-files`.
